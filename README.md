@@ -14,3 +14,11 @@
 - [git push :: 'Note about fast-forwards' in 'git push --help' for detail](https://github.com/mireyhgnay/fe-working-record/blob/main/Git/Git-Error-push%20%EC%98%A4%EB%A5%98.md)
 
 <br>
+
+## Dictionary
+
+- [린트(Lint)]()
+- [모노레포(Mono Repo)]()
+- [센트리(Sentry)]()
+- [예외처리]()
+- [웹 로그(Web Log)]()
