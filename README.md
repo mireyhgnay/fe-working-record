@@ -29,3 +29,11 @@
 
 - [파이어베이스 동적링크와 딥링크](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EB%8F%99%EC%A0%81%EB%A7%81%ED%81%AC%EC%99%80%20%EB%94%A5%EB%A7%81%ED%81%AC.md)
 - [&로 구분된 파라미터들을 객체로 리턴해주는 함수](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/%26%EB%A1%9C%20%EA%B5%AC%EB%B6%84%EB%90%9C%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EB%93%A4%EC%9D%84%20%EA%B0%9D%EC%B2%B4%EB%A1%9C%20%EB%A6%AC%ED%84%B4%ED%95%B4%EC%A3%BC%EB%8A%94%20%ED%95%A8%EC%88%98.md)
+
+<br>
+
+## Refactoring
+
+> JQuery -> Vanilla JavaScript
+
+- [페이지 맨상단으로 스크롤 이동 버튼]()
