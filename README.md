@@ -32,7 +32,7 @@
 - [&로 구분된 파라미터들을 객체로 리턴해주는 함수](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/%26%EB%A1%9C%20%EA%B5%AC%EB%B6%84%EB%90%9C%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EB%93%A4%EC%9D%84%20%EA%B0%9D%EC%B2%B4%EB%A1%9C%20%EB%A6%AC%ED%84%B4%ED%95%B4%EC%A3%BC%EB%8A%94%20%ED%95%A8%EC%88%98.md)
 - [변수명을 대문자로만 작성하는 이유는?](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/%08%EB%B3%80%EC%88%98%EB%AA%85%EC%9D%84%20%EB%8C%80%EB%AC%B8%EC%9E%90%EB%A1%9C%EB%A7%8C%20%EC%9E%91%EC%84%B1%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0%EB%8A%94%3F.md)
 - [함수의 매개변수를 넘겨주고 가져오는 로직 이해하기](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/%ED%95%A8%EC%88%98%EC%9D%98%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EB%A5%BC%20%EB%84%98%EA%B2%A8%EC%A3%BC%EA%B3%A0%20%EA%B0%80%EC%A0%B8%EC%98%A4%EB%8A%94%20%EB%A1%9C%EC%A7%81%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
-- [And 와 iOS 의 디버깅 차이점]()
+- [And 와 iOS 의 디버깅 차이점](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/And%20%EC%99%80%20iOS%20%EC%9D%98%20%EB%94%94%EB%B2%84%EA%B9%85%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 
 <br>
 
