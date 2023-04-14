@@ -34,7 +34,7 @@
 - [함수의 매개변수를 넘겨주고 가져오는 로직 이해하기](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/%ED%95%A8%EC%88%98%EC%9D%98%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EB%A5%BC%20%EB%84%98%EA%B2%A8%EC%A3%BC%EA%B3%A0%20%EA%B0%80%EC%A0%B8%EC%98%A4%EB%8A%94%20%EB%A1%9C%EC%A7%81%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
 - [And 와 iOS 의 디버깅 차이점](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/And%20%EC%99%80%20iOS%20%EC%9D%98%20%EB%94%94%EB%B2%84%EA%B9%85%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 - [jquery.proxy()](<https://github.com/mireyhgnay/fe-working-record/blob/main/Study/jquery.proxy().md>)
-- [URL과 location 객체]()
+- [URL과 location 객체](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/URL%EA%B3%BC%20location%20%EA%B0%9D%EC%B2%B4.md)
 - [JSON이란?](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/JSON%EC%9D%B4%EB%9E%80%3F.md)
 
 <br>
