@@ -36,7 +36,7 @@
 - [jquery.proxy()](<https://github.com/mireyhgnay/fe-working-record/blob/main/Study/jquery.proxy().md>)
 - [URL과 location 객체](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/URL%EA%B3%BC%20location%20%EA%B0%9D%EC%B2%B4.md)
 - [JSON이란?](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/JSON%EC%9D%B4%EB%9E%80%3F.md)
-- [URLSearchParams로 객체를 구현하여 for…of 문을 사용해 키/값을 추출하기]()
+- [URLSearchParams로 객체를 구현하여 for…of 문을 사용해 키/값을 추출하기](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/URLSearchParams%EB%A1%9C%20%EA%B0%9D%EC%B2%B4%EB%A5%BC%20%EA%B5%AC%ED%98%84%ED%95%98%EC%97%AC%20for%20of%20%EB%AC%B8%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%B4%20%ED%82%A4%2C%EA%B0%92%EC%9D%84%20%EC%B6%94%EC%B6%9C%ED%95%98%EA%B8%B0.md)
 
 <br>
 

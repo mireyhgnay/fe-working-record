@@ -5,6 +5,7 @@
 > URLSearchParams / for...of문 사용하여 객체 생성 / new URL() / jquery.parse
 
 <br>
+<br>
 
 ## **URLSearchParams 란?**
 
@@ -18,6 +19,7 @@ URL의 쿼리 문자열(url에서 물음표 뒤에 오는 문자열)을 대상�
 
 자바스크립트에서 복잡한 쿼리스트링을 파싱할 수 있도록 `URLSearchParams` 객체를 제공합니다.
 
+<br>
 <br>
 
 ## **URLSearchParams 객체 생성 방법**
@@ -54,6 +56,7 @@ URL의 쿼리 문자열(url에서 물음표 뒤에 오는 문자열)을 대상�
   - 그 객체를 반환한다.
 
 <br>
+<br>
 
 ## **new URL() 이란?**
 
@@ -85,6 +88,7 @@ URL객체를 생성하기 위해서는 생성자에 기본적인 URL을 입력�
 참고 : [https://joalog.tistory.com/112](https://joalog.tistory.com/112)
 
 <br>
+<br>
 
 ## **jQuery Parse 를 사용하여 Object 로 변환하는 방법**
 
@@ -100,6 +104,7 @@ const object = parseJSON(
 );
 ```
 
+<br>
 <br>
 
 Object → String
