@@ -28,6 +28,14 @@
 
 <br>
 
+**`오답 노트`**
+
+> 다신 실수하지 말도록^^!
+
+- []()
+
+<br>
+
 ## Study
 
 - [파이어베이스 동적링크와 딥링크](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EB%8F%99%EC%A0%81%EB%A7%81%ED%81%AC%EC%99%80%20%EB%94%A5%EB%A7%81%ED%81%AC.md)
