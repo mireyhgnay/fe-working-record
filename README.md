@@ -34,7 +34,7 @@
 
 - [React : 모듈 내보내고 가져오기(export, import)](<https://github.com/mireyhgnay/fe-working-record/blob/main/Issue/React%20%EB%AA%A8%EB%93%88%20%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B3%A0%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0(export%2C%20import).md>)
 
-- [React : a태그 target 속성 사용 시 에러 해결하기]()
+- [React : a태그 target 속성 사용 시 에러 해결하기](https://github.com/mireyhgnay/fe-working-record/blob/main/Issue/React%20%3A%20a%ED%83%9C%EA%B7%B8%20target%20%EC%86%8D%EC%84%B1%20%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20%EC%97%90%EB%9F%AC%20%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0.md)
 
 <br>
 
