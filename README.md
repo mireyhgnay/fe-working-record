@@ -32,7 +32,9 @@
 
 > 다신 실수하지 말도록^^!
 
-- [React 모듈 내보내고 가져오기(export, import)](<https://github.com/mireyhgnay/fe-working-record/blob/main/Issue/React%20%EB%AA%A8%EB%93%88%20%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B3%A0%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0(export%2C%20import).md>)
+- [React : 모듈 내보내고 가져오기(export, import)](<https://github.com/mireyhgnay/fe-working-record/blob/main/Issue/React%20%EB%AA%A8%EB%93%88%20%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B3%A0%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0(export%2C%20import).md>)
+
+- [React : a태그 target 속성 사용 시 에러 해결하기]()
 
 <br>
 
