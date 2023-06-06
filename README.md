@@ -69,3 +69,4 @@
 - [React : HTML 코드에서 따옴표, 쌍따옴표 등 특수문자 쓰는 방법](https://github.com/jsx-eslint/eslint-plugin-react/blob/master/docs/rules/no-unescaped-entities.md)
 - [Kakao Developers : debugger](https://developers.kakao.com/tool/debugger/sharing)
 - [Google PageSpeed Insights 사이트 성능 체크](https://pagespeed.web.dev/)
+- [pnpm 공식홈페이지](https://pnpm.io/ko/motivation)
