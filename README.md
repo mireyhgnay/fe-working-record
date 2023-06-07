@@ -53,7 +53,7 @@
 - [카카오톡 공유 URL 디버깅 : 이미지 반영 확인하기](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1%20%EA%B3%B5%EC%9C%A0%20URL%20%EB%94%94%EB%B2%84%EA%B9%85%20%3A%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B0%98%EC%98%81%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.md)
 - [Git-flow 전략](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/Git-flow%20%EC%A0%84%EB%9E%B5.md)
 - [git rebase](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/git%20rebase.md)
-- [pnpm 이란?]()
+- [pnpm 이란?](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/pnpm.md)
 
  <br>
 
