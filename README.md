@@ -54,7 +54,7 @@
 - [Git-flow 전략](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/Git-flow%20%EC%A0%84%EB%9E%B5.md)
 - [git rebase](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/git%20rebase.md)
 - [pnpm 이란?](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/pnpm.md)
-- [webpack HtmlWebpackPlugin 에 사용되는 template.html 파일의 용도는?]()
+- [webpack HtmlWebpackPlugin 에 사용되는 template.html 파일의 용도는?](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/webpack%20HtmlWebpackPlugin%20%EC%97%90%20%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94%20template.html%20%ED%8C%8C%EC%9D%BC%EC%9D%98%20%EC%9A%A9%EB%8F%84%EB%8A%94%3F.md)
 
  <br>
 
