@@ -74,7 +74,7 @@
 하나씩 차분히 정리하려고한다.
 ```
 
-- [.babelrc]()
+- [.babelrc](https://github.com/mireyhgnay/fe-working-record/blob/main/MonoRepo/.babelrc.md)
 
 <br>
 
