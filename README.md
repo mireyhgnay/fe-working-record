@@ -6,7 +6,7 @@
 
 <br>
 
-## Dictionary
+## 📖 Dictionary
 
 - [린트(Lint)](<https://github.com/mireyhgnay/fe-working-record/blob/main/Dictionary/%EB%A6%B0%ED%8A%B8(Lint).md>)
 - [모노레포(Mono Repo)](<https://github.com/mireyhgnay/fe-working-record/blob/main/Dictionary/%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC(Mono%20Repo).md>)
@@ -18,7 +18,7 @@
 
 <br>
 
-## Issue
+## 🚨 Issue
 
 > 업무에서 혹은 개인적으로 공부하면서 기록해야 할 이슈들을 기록합니다.
 
@@ -37,7 +37,7 @@
 
 <br>
 
-## Study
+## ✏️ Study
 
 - [파이어베이스 동적링크와 딥링크](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EB%8F%99%EC%A0%81%EB%A7%81%ED%81%AC%EC%99%80%20%EB%94%A5%EB%A7%81%ED%81%AC.md)
 - [&로 구분된 파라미터들을 객체로 리턴해주는 함수](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/%26%EB%A1%9C%20%EA%B5%AC%EB%B6%84%EB%90%9C%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EB%93%A4%EC%9D%84%20%EA%B0%9D%EC%B2%B4%EB%A1%9C%20%EB%A6%AC%ED%84%B4%ED%95%B4%EC%A3%BC%EB%8A%94%20%ED%95%A8%EC%88%98.md)
@@ -58,7 +58,7 @@
 
  <br>
 
-## Refactoring
+## ✨ Refactoring
 
 > JQuery -> Vanilla JavaScript
 
@@ -66,17 +66,16 @@
 
 <br>
 
-## webpack setting
+## 🌈 모노레포(monorepo) 구축하기
 
-**URL**
-
-- [🔗 Webpack 공식문서](https://webpack.kr/guides/getting-started/)
+- []()
 
 <br>
 
-## URL
+## 🔗 URL
 
-- [React : HTML 코드에서 따옴표, 쌍따옴표 등 특수문자 쓰는 방법](https://github.com/jsx-eslint/eslint-plugin-react/blob/master/docs/rules/no-unescaped-entities.md)
-- [Kakao Developers : debugger](https://developers.kakao.com/tool/debugger/sharing)
-- [Google PageSpeed Insights 사이트 성능 체크](https://pagespeed.web.dev/)
-- [pnpm 공식홈페이지](https://pnpm.io/ko/motivation)
+- [🔗 React : HTML 코드에서 따옴표, 쌍따옴표 등 특수문자 쓰는 방법](https://github.com/jsx-eslint/eslint-plugin-react/blob/master/docs/rules/no-unescaped-entities.md)
+- [🔗 Kakao Developers : debugger](https://developers.kakao.com/tool/debugger/sharing)
+- [🔗 Google PageSpeed Insights 사이트 성능 체크](https://pagespeed.web.dev/)
+- [🔗 pnpm 공식홈페이지](https://pnpm.io/ko/motivation)
+- [🔗 Webpack 공식문서](https://webpack.kr/guides/getting-started/)
