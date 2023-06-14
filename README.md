@@ -75,6 +75,7 @@
 ```
 
 - [.babelrc](https://github.com/mireyhgnay/fe-working-record/blob/main/MonoRepo/.babelrc.md)
+- [.eslintrc]()
 
 <br>
 
