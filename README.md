@@ -76,6 +76,7 @@
 
 - [.babelrc](https://github.com/mireyhgnay/fe-working-record/blob/main/MonoRepo/.babelrc.md)
 - [.eslintrc](https://github.com/mireyhgnay/fe-working-record/blob/main/MonoRepo/.eslintrc.md)
+- [package.json 초간단 요약 정리]()
 
 <br>
 
