@@ -80,7 +80,7 @@
 
 **📁 webpack**
 
-- [Webpack :: 필수 기본 설정 (webpack.core.js)](<https://github.com/mireyhgnay/fe-working-record/blob/main/MonoRepo/webpack/webpack%20%ED%95%84%EC%88%98%20%EA%B8%B0%EB%B3%B8%20%EC%84%A4%EC%A0%95%20(webpack.core.js).md>)
+- [Webpack :: 필수 기본 설정 (webpack.core.js)](<https://github.com/mireyhgnay/fe-working-record/blob/main/MonoRepo/webpack/Webpack%20%3A%3A%20%ED%95%84%EC%88%98%20%EA%B8%B0%EB%B3%B8%20%EC%84%A4%EC%A0%95%20(webpack.core.js).md>)
 - [Webpack :: Loader 종류]()
 
 <br>
