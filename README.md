@@ -20,8 +20,6 @@
 
 ## 🚨 Issue
 
-> 업무에서 혹은 개인적으로 공부하면서 기록해야 할 이슈들을 기록합니다.
-
 - [formatDateIfFailed 함수의 치명적인 문제점 찾아내기](https://github.com/mireyhgnay/fe-working-record/blob/main/Issue/formatDateIfFailed%20%ED%95%A8%EC%88%98%EC%9D%98%20%EC%B9%98%EB%AA%85%EC%A0%81%EC%9D%B8%20%EB%AC%B8%EC%A0%9C%EC%A0%90%20%EC%B0%BE%EC%95%84%EB%82%B4%EA%B8%B0.md)
 - [에러 로그에 검색 로봇 필터링 추가하기](https://github.com/mireyhgnay/fe-working-record/blob/main/Issue/%EC%97%90%EB%9F%AC%20%EB%A1%9C%EA%B7%B8%EC%97%90%20%EA%B2%80%EC%83%89%20%EB%A1%9C%EB%B4%87%20%ED%95%84%ED%84%B0%EB%A7%81%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0.md)
 - [Uncaught TypeError: Cannot read properties of null (reading 'querySelector') 오류 해결](https://github.com/mireyhgnay/fe-working-record/blob/main/Issue/Cannot%20read%20properties%20of%20null%20%EC%98%A4%EB%A5%98%20%ED%95%B4%EA%B2%B0.md)
@@ -56,14 +54,6 @@
 - [pnpm 이란?](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/pnpm.md)
 - [webpack HtmlWebpackPlugin 에 사용되는 template.html 파일의 용도는?](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/webpack%20HtmlWebpackPlugin%20%EC%97%90%20%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94%20template.html%20%ED%8C%8C%EC%9D%BC%EC%9D%98%20%EC%9A%A9%EB%8F%84%EB%8A%94%3F.md)
 
- <br>
-
-## ✨ Refactoring
-
-> JQuery -> Vanilla JavaScript
-
-- [페이지 맨상단으로 스크롤 이동 버튼](https://github.com/mireyhgnay/fe-working-record/blob/main/Refactoring/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%A7%A8%EC%83%81%EB%8B%A8%EC%9C%BC%EB%A1%9C%20%EC%8A%A4%ED%81%AC%EB%A1%A4%20%EC%9D%B4%EB%8F%99%20%EB%B2%84%ED%8A%BC.md)
-
 <br>
 
 ## 🌈 모노레포(monorepo) 구축하기
@@ -74,6 +64,7 @@
 하나씩 차분히 정리하려고한다.
 ```
 
+- [모노레포를 구축하는 이유는?]()
 - [.babelrc](https://github.com/mireyhgnay/fe-working-record/blob/main/MonoRepo/.babelrc.md)
 - [.eslintrc](https://github.com/mireyhgnay/fe-working-record/blob/main/MonoRepo/.eslintrc.md)
 - [package.json 초간단 요약 정리](https://github.com/mireyhgnay/fe-working-record/blob/main/MonoRepo/package.json%20%EC%B4%88%EA%B0%84%EB%8B%A8%20%EC%9A%94%EC%95%BD%20%EC%A0%95%EB%A6%AC.md)
@@ -87,8 +78,8 @@
 
 ## 🔗 URL
 
-- [🔗 React : HTML 코드에서 따옴표, 쌍따옴표 등 특수문자 쓰는 방법](https://github.com/jsx-eslint/eslint-plugin-react/blob/master/docs/rules/no-unescaped-entities.md)
-- [🔗 Kakao Developers : debugger](https://developers.kakao.com/tool/debugger/sharing)
+- [🔗 [React] HTML 코드에서 따옴표, 쌍따옴표 등 특수문자 쓰는 방법](https://github.com/jsx-eslint/eslint-plugin-react/blob/master/docs/rules/no-unescaped-entities.md)
+- [🔗 Kakao Developers - debugger : 카카오에 링크 공유시 썸네일 이지 확인하는 경우](https://developers.kakao.com/tool/debugger/sharing)
 - [🔗 Google PageSpeed Insights 사이트 성능 체크](https://pagespeed.web.dev/)
 - [🔗 pnpm 공식홈페이지](https://pnpm.io/ko/motivation)
 - [🔗 Webpack 공식문서](https://webpack.kr/guides/getting-started/)
