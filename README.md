@@ -65,7 +65,7 @@
 하나씩 차분히 정리하려고한다.
 ```
 
-- [모노레포를 구축하는 이유는?]()
+- [모노레포를 구축하는 이유는?](https://github.com/mireyhgnay/fe-working-record/blob/main/MonoRepo/%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC%EB%A5%BC%20%EA%B5%AC%EC%B6%95%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0%EB%8A%94%3F.md)
 - [.babelrc](https://github.com/mireyhgnay/fe-working-record/blob/main/MonoRepo/.babelrc.md)
 - [.eslintrc](https://github.com/mireyhgnay/fe-working-record/blob/main/MonoRepo/.eslintrc.md)
 - [package.json 초간단 요약 정리](https://github.com/mireyhgnay/fe-working-record/blob/main/MonoRepo/package.json%20%EC%B4%88%EA%B0%84%EB%8B%A8%20%EC%9A%94%EC%95%BD%20%EC%A0%95%EB%A6%AC.md)
