@@ -70,6 +70,7 @@
 - [.babelrc](https://github.com/mireyhgnay/fe-working-record/blob/main/MonoRepo/.babelrc.md)
 - [.eslintrc](https://github.com/mireyhgnay/fe-working-record/blob/main/MonoRepo/.eslintrc.md)
 - [package.json 초간단 요약 정리](https://github.com/mireyhgnay/fe-working-record/blob/main/MonoRepo/package.json%20%EC%B4%88%EA%B0%84%EB%8B%A8%20%EC%9A%94%EC%95%BD%20%EC%A0%95%EB%A6%AC.md)
+- [dependencies와 devDependencies 차이점]()
 
 **📁 webpack**
 
