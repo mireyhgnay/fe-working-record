@@ -57,7 +57,7 @@
 - [작업 번들 파일을 서버에 올린 후 체크해보아야 할 것들](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/%EC%9E%91%EC%97%85%20%EB%B2%88%EB%93%A4%20%ED%8C%8C%EC%9D%BC%EC%9D%84%20%EC%84%9C%EB%B2%84%EC%97%90%20%EC%98%AC%EB%A6%B0%20%ED%9B%84%20%EC%B2%B4%ED%81%AC%ED%95%B4%EB%B3%B4%EC%95%84%EC%95%BC%20%ED%95%A0%20%EA%B2%83%EB%93%A4.md)
 - [npm install과 npm ci의 차이점](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/npm%20install%EA%B3%BC%20npm%20ci%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 - [yargs.argv 란?](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/yargs%20argv.md)
-- [함수 콘솔 테스트 방법]()
+- [함수 콘솔 테스트 방법](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/%ED%95%A8%EC%88%98%20%EC%BD%98%EC%86%94%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%B0%A9%EB%B2%95.md)
 
 <br>
 
