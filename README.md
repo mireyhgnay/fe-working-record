@@ -10,7 +10,7 @@
 
 ### <div align="center">[🚨 내가 만난 Error 보러가기 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Error/README.md)</div>
 
-### <div align="center">[📝 업무 하면서 Study한 내용들 (like TIL)]()</div>
+### <div align="center">[📝 업무 하면서 Study한 내용들 보러가기 (like TIL) 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/README.md)</div>
 
 ### <div align="center">[]()</div>
 
