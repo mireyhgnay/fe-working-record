@@ -6,7 +6,7 @@
 
 <br>
 
-### <div align="center">[📖 Dictionary 보러가기 👉]()</div>
+### <div align="center">[📖 Dictionary 보러가기 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Dictionary/README.md)</div>
 
 ## 🚨 Issue
 
