@@ -26,4 +26,4 @@
 - [npm install과 npm ci의 차이점](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/npm%20install%EA%B3%BC%20npm%20ci%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 - [yargs.argv 란?](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/yargs%20argv.md)
 - [함수 콘솔 테스트 방법](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/%ED%95%A8%EC%88%98%20%EC%BD%98%EC%86%94%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%B0%A9%EB%B2%95.md)
-- [get() : 제이쿼리에서 돔 객체 비교하기]()
+- [get() : 제이쿼리에서 돔 객체 비교하기](<https://github.com/mireyhgnay/fe-working-record/blob/main/Study/get()%20%3A%20%EC%A0%9C%EC%9D%B4%EC%BF%BC%EB%A6%AC%EC%97%90%EC%84%9C%20%EB%8F%94%20%EA%B0%9D%EC%B2%B4%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.md>)
