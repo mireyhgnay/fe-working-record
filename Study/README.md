@@ -30,4 +30,4 @@
 - [Swiper JS 라이브러리 사용 시 주의하기](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/Swiper%20%EC%82%AC%EC%9A%A9%20%EC%8B%9C%20%EC%A3%BC%EC%9D%98%ED%95%98%EA%B8%B0.md)
 - [Promise 생성자](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/Promise%20%EC%83%9D%EC%84%B1%EC%9E%90.md)
 - [ajax](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/ajax.md)
-- [개편 작업 하면서 다시 한번 공부한 JS]()
+- [메인홈 개편 작업 하면서 다시 한번 공부한 JS]()
