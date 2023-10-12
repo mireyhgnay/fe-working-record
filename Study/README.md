@@ -31,3 +31,4 @@
 - [Promise 생성자](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/Promise%20%EC%83%9D%EC%84%B1%EC%9E%90.md)
 - [ajax](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/ajax.md)
 - [메인홈 개편 작업 하면서 다시 한번 공부한 JS](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/%EB%A9%94%EC%9D%B8%ED%99%88%20%EA%B0%9C%ED%8E%B8%20%EC%9E%91%EC%97%85%20%ED%95%98%EB%A9%B4%EC%84%9C%20%EB%8B%A4%EC%8B%9C%20%ED%95%9C%EB%B2%88%20%EA%B3%B5%EB%B6%80%ED%95%9C%20JS.md)
+- [querySelectorAll 메서드는 DOM 요소를 선택하고 NodeList를 반환한다.]()
