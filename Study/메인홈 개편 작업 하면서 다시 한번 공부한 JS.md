@@ -22,3 +22,19 @@
   - 돔의 window기준 top,right, bottom, left , width 등… 모든 값을 구할 수 있다.
 - onClick 이벤트는 호출을 계속 함. 초기화 해주려면
 - remove()를 써서 돔을 제거했으면 다시 노출시켜야 할 때는 append나 돔을 다시 생성해주는 메소드를 사용해서 추가해줘야한다. 잠시 없앴다가 다시 노출시켜야하는 거라면 hide(), show() 를 사용해야한다.
+- 무조건 변수를 선언할 필요가 없다.  
+  깔끔히 하려고 하다보니 모든 요소 선택을 변수로 설정해서 하려고 하는걸 버리자! 한번만 사용 되는 애는 바로 선택해서 사용하자.
+- [Element: insertAdjacentHTML()](https://developer.mozilla.org/ko/docs/Web/API/Element/insertAdjacentHTML)
+  - 지정된 텍스트를 HTML로 파싱하고 결과 노드들을 지정된 위치의 dom 트리에 삽입합니다.
+  - **`insertAdjacentHTML(position, text);`**
+  - `position` 매개변수
+    - beforebegin :
+      - 요소 이전에 위치합니다. 오직 요소가 DOM 트리에 있고 부모 요소를 가지고 있을 때만 유효합니다.
+    - beforeend :
+      - 요소 바로 안에서 마지막 자식 이후에 위치합니다.
+    - afterbegin :
+      - 요소 바로 안에서 처음 자식 이전에 위치합니다.
+    - afterend :
+      - 요소 이후에 위치합니다. 오직 요소가 DOM 트리에 있고 부모 요소를 가지고 있을 때만 유효합니다.
+  - `text` 매개변수
+    - HTML 혹은 XML로 파싱되고 트리에 삽입되는 문자열입니다.
