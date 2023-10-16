@@ -3,11 +3,15 @@
 <br>
 
 - [**Object.keys()**](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
+
   - 객체형태를 배열로 변환해준다.
+
 - **delete**
+
   - 연산자를 사용하여 배열 요소를 삭제
   - 특정 배열 요소 삭제 가능
   - 하지만 배열의 길이는 그대로 (삭제보다는 변경에 가까움)
+
 - **Swiper JS**
   - freeMode : 슬라이드 넘길 때 위치 고정 여부
     **freeMode**를 사용하면 사용자는 슬라이드 간의 제약 없이 자유롭게 스와이프할 수 있으며,
@@ -25,6 +29,7 @@
 - 무조건 변수를 선언할 필요가 없다.  
   깔끔히 하려고 하다보니 모든 요소 선택을 변수로 설정해서 하려고 하는걸 버리자! 한번만 사용 되는 애는 바로 선택해서 사용하자.
 - [Element: insertAdjacentHTML()](https://developer.mozilla.org/ko/docs/Web/API/Element/insertAdjacentHTML)
+
   - 지정된 텍스트를 HTML로 파싱하고 결과 노드들을 지정된 위치의 dom 트리에 삽입합니다.
   - **`insertAdjacentHTML(position, text);`**
   - `position` 매개변수
@@ -38,3 +43,15 @@
       - 요소 이후에 위치합니다. 오직 요소가 DOM 트리에 있고 부모 요소를 가지고 있을 때만 유효합니다.
   - `text` 매개변수
     - HTML 혹은 XML로 파싱되고 트리에 삽입되는 문자열입니다.
+
+- innerHTML VS appendChild VS html
+  - innerHTML
+    - DOM.innerHTML = ' ' 형태
+    - innerHTML은 교체 - 내부 HTML을 완전히 교체해버린다.
+    - innerHTML이 appendChild보다 빠르다. (약 2배 정도)
+  - appendChild
+    - DOM.appendChild(' ') 형태
+    - appendChild는 추가 - 완전한 DOM 객체를 (맨 뒤에) 삽입한다.
+  - .html()
+    - 제이쿼리 문법이다.
+    - html()을 활용하면 해당 태그 하위의 html 내용을 가져올 수 있고 그 내용을 새로운 내용으로 변경할 수도 있습니다.
