@@ -58,5 +58,5 @@
     - html()을 활용하면 해당 태그 하위의 html 내용을 가져올 수 있고 그 내용을 새로운 내용으로 변경할 수도 있습니다.
 
 - **Scroll Event**
-  - [IntersectionObserver]()
+  - [IntersectionObserver](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/IntersectionObserver.md)
   - getBoundingClientRect
