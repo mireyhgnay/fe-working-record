@@ -45,6 +45,7 @@
     - HTML 혹은 XML로 파싱되고 트리에 삽입되는 문자열입니다.
 
 - innerHTML VS appendChild VS html
+
   - innerHTML
     - DOM.innerHTML = ' ' 형태
     - innerHTML은 교체 - 내부 HTML을 완전히 교체해버린다.
@@ -55,3 +56,7 @@
   - .html()
     - 제이쿼리 문법이다.
     - html()을 활용하면 해당 태그 하위의 html 내용을 가져올 수 있고 그 내용을 새로운 내용으로 변경할 수도 있습니다.
+
+- **Scroll Event**
+  - [IntersectionObserver]()
+  - getBoundingClientRect
