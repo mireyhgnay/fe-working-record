@@ -59,4 +59,4 @@
 
 - **Scroll Event**
   - [IntersectionObserver](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/IntersectionObserver.md)
-  - [DOM.getBoundingClientRect()]()
+  - [DOM.getBoundingClientRect()](<https://github.com/mireyhgnay/fe-working-record/blob/main/Study/DOM.getBoundingClientRect().md>)
