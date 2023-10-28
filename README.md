@@ -6,17 +6,17 @@
 
 <br>
 
-### <div align="center">[🚨 내가 만난 Error 보러가기 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Error/README.md)</div>
+### [👩🏻‍💻 업무 하면서 Study한 내용들 보러가기 (like TIL) 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/README.md)
 
-### <div align="center">[👊🏻 두 번의 실수는 없도록 Remember 해야할 것들 보러가기 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Remember/README.md)</div>
+### [🚨 내가 만난 Error 보러가기 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Error/README.md)
 
-### <div align="center">[📝 업무 하면서 Study한 내용들 보러가기 (like TIL) 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/README.md)</div>
+### [👊🏻 두 번의 실수는 없도록 Remember 해야할 것들 보러가기 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Remember/README.md)
 
 <br>
 <br>
 
 ## My Projects
 
-### <div align="center">[🦄 내가 Monorepo를 경험하면서 공부한 것들 보러가기 👉](https://github.com/mireyhgnay/fe-monorepo)</div>
+### [📁 Monorepo를 구축하고 경험하면서 공부한 것들](https://github.com/mireyhgnay/fe-monorepo)
 
-### <div align="center">[🖥️ 티몬 메인 홈 브라우저 성능 개선을 하면서 TIL 작성한 것 보러가기 👉](https://github.com/mireyhgnay/browser-performance-upgrade)</div>
+### [🖥️ 티몬 메인 홈 브라우저 성능 개선을 하면서 기록하는 TIL](https://github.com/mireyhgnay/browser-performance-upgrade)
