@@ -1,5 +1,5 @@
 <h1 align="center">👊🏻 Remember</h1>
-<p align="center">나의 실수를 기억하자!!</p>
+<p align="center">기억하자!!</p>
 
 <br>
 
