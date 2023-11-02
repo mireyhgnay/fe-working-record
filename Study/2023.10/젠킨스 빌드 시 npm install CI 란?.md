@@ -1,4 +1,4 @@
-# <div align="center">👩🏻‍💻 젠킨스 빌드 시 npm install CI 란?/div>
+# <div align="center">👩🏻‍💻 젠킨스 빌드 시 npm install CI 란?</div>
 
 <br>
 
