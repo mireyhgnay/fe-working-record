@@ -12,4 +12,4 @@
 
 - [React : classnames 패키지 모듈 사용하기](https://github.com/mireyhgnay/react-roadmap/blob/main/Study/19.%20classnames%20%ED%8C%A8%ED%82%A4%EC%A7%80%20%EB%AA%A8%EB%93%88.md)
 
-- [NextJS 프로젝트 관련 용어 정리]()
+- [NextJS 프로젝트 관련 용어 정리](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/2023.10/NextJS%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B4%80%EB%A0%A8%20%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md)
