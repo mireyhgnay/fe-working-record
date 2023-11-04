@@ -11,3 +11,5 @@
 - [React : 코드 작성시 권장하는 순서](https://github.com/mireyhgnay/react-roadmap/blob/main/Study/18.%20React%20%EC%9E%91%EC%84%B1%20%EC%8B%9C%20%EA%B6%8C%EC%9E%A5%ED%95%98%EB%8A%94%20%EC%88%9C%EC%84%9C.md)
 
 - [React : classnames 패키지 모듈 사용하기](https://github.com/mireyhgnay/react-roadmap/blob/main/Study/19.%20classnames%20%ED%8C%A8%ED%82%A4%EC%A7%80%20%EB%AA%A8%EB%93%88.md)
+
+- [NextJS 프로젝트 관련 용어 정리]()
