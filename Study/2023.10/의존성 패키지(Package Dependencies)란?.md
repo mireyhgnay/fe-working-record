@@ -1,4 +1,4 @@
-# <div align="center">👩🏻‍💻 의존성 패키지(Package Dependencies)란?/div>
+# <div align="center">👩🏻‍💻 의존성 패키지(Package Dependencies)란?</div>
 
 <br>
 
