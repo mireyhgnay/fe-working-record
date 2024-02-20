@@ -15,3 +15,5 @@
 - [2024.01.24 - addEventListener VS onclick](https://hyerimiya.notion.site/addEventListener-VS-onclick-9205a0d070dd41908935e102129e6d07?pvs=4)
 
 - [2024.02.16 - polyfill 이란?](https://hyerimiya.notion.site/polyfill-c29ff6104da54fd4a3b9ee9bfeababca?pvs=4)
+
+- [2024.02.20 - Document: visibilitychange Event](https://hyerimiya.notion.site/Document-visibilitychange-Event-3ce494be15254c548732ac58619eab2d?pvs=4)
