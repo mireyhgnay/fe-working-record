@@ -17,3 +17,5 @@
 - [2024.02.16 - polyfill 이란?](https://hyerimiya.notion.site/polyfill-c29ff6104da54fd4a3b9ee9bfeababca?pvs=4)
 
 - [2024.02.20 - Document: visibilitychange Event](https://hyerimiya.notion.site/Document-visibilitychange-Event-3ce494be15254c548732ac58619eab2d?pvs=4)
+
+- [2024.02.21 - API를 한번에 요청할 때는 POST 방식 & FormData](https://hyerimiya.notion.site/API-POST-FormData-b5472f17bf0f4e8dab3bd9020c538b36?pvs=4)
