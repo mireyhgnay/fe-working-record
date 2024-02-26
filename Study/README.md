@@ -19,3 +19,5 @@
 - [2024.02.20 - Document: visibilitychange Event](https://hyerimiya.notion.site/Document-visibilitychange-Event-3ce494be15254c548732ac58619eab2d?pvs=4)
 
 - [2024.02.21 - API를 한번에 요청할 때는 POST 방식 & FormData](https://hyerimiya.notion.site/API-POST-FormData-b5472f17bf0f4e8dab3bd9020c538b36?pvs=4)
+
+- [2024.02.26 - Safari 브우저에서 new Date객체 이슈 나는 경우](https://hyerimiya.notion.site/Safari-new-Date-c06123ea39d34b52ab479d4c9518c6bd?pvs=4)
