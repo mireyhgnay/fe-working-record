@@ -10,6 +10,8 @@
 
 - [[VSCode] Default Formatter 설정하기 :: ESLint 와 Prettier 충돌 해결](https://github.com/mireyhgnay/fe-working-record/blob/main/Error/%5BVSCode%5D%20Default%20Formatter%20%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0%20%3A%3A%20ESLint%20%EC%99%80%20Prettier%20%EC%B6%A9%EB%8F%8C%20%ED%95%B4%EA%B2%B0.md)
 
+- [템플릿 문자열 안에서 반복문 사용시 undefined로 나오는 이유?](https://hyerimiya.notion.site/undefined-03842379f2cb439a9ec8b3cb1098a4f9?pvs=4)
+
 <br>
 
 **`📝 오답 노트`**
