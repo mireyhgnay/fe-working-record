@@ -10,8 +10,6 @@
 
 ### [🚨 내가 만난 Error 보러가기 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Error/README.md)
 
-### [👊🏻 두 번의 실수는 없도록 Remember 해야할 것들 보러가기 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Remember/README.md)
-
 ### [📝 일하면서 참 중요하다고 생각됐던 것들, 배우게 된 것들, 느낀점들 모두 다 모아모아 👉](https://hyerimiya.notion.site/Work-Story-8442eb0b3ae041309df8d8f3f9285a30?pvs=4)
 
 <br>
