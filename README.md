@@ -6,11 +6,11 @@
 
 <br>
 
-### [👩🏻‍💻 업무 하면서 Study한 내용들 보러가기 (like TIL) 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/README.md)
+### [👩🏻‍💻 업무하면서 중요하다 생각되는 것들과 Study한 내용들 보러가기 (like TIL) 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/README.md)
 
-### [🚨 내가 만난 Error 보러가기 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Error/README.md)
+### [🚨 업무하면서 내가 만난 Error 보러가기 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Error/README.md)
 
-### [📝 일하면서 참 중요하다고 생각됐던 것들, 배우게 된 것들, 느낀점들 모두 다 모아모아 👉](https://hyerimiya.notion.site/Work-Story-8442eb0b3ae041309df8d8f3f9285a30?pvs=4)
+### [📝 업무하면서 개발 외에 느꼈던 것들, 배우게 된 것들 모두 모아모아 👉](https://hyerimiya.notion.site/Work-Story-8442eb0b3ae041309df8d8f3f9285a30?pvs=4)
 
 <br>
 <br>
