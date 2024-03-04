@@ -17,7 +17,7 @@
 
 ## My Projects
 
-### [✍🏻 프로젝트 회고록]()
+### [✍🏻 프로젝트 회고록](https://github.com/mireyhgnay/fe-working-record/tree/main/Memoirs)
 
 ### [📁 Monorepo를 구축하고 경험하면서 공부한 것들](https://github.com/mireyhgnay/fe-monorepo)
 
