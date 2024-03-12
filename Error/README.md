@@ -12,6 +12,8 @@
 
 - [템플릿 문자열 안에서 반복문 사용시 undefined로 나오는 이유?](https://hyerimiya.notion.site/undefined-03842379f2cb439a9ec8b3cb1098a4f9?pvs=4)
 
+- [POST API fetch 로 보냈을 때 404 에러 원인 :: x-www-form-urlencoded 타입](https://hyerimiya.notion.site/POST-API-fetch-formData-404-x-www-form-urlencoded-multipart-form-data-0f7efc22acdf4d7e8cde3aaf93404688?pvs=4)
+
 <br>
 
 **`📝 오답 노트`**
