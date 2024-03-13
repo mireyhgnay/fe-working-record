@@ -26,4 +26,6 @@
 
 - [JavaScript - 템플릿 엔진](https://hyerimiya.notion.site/4167b3ac23504883b83d189c7826b317?pvs=4)
 
-- [Git Rebase :: merge를 두고 왜 rebase 를 쓰는거야? ](https://hyerimiya.notion.site/merge-rebase-e128b0bce8f140f8af98cd76c031eb0f?pvs=4)
+- [Git Rebase](https://hyerimiya.notion.site/git-rebase-84289c411caf42feb3ca95c436d6a84c?pvs=4)
+
+- [Git Rebase :: merge를 두고 왜 rebase 를 쓰는거야?](https://hyerimiya.notion.site/merge-rebase-e128b0bce8f140f8af98cd76c031eb0f?pvs=4)
