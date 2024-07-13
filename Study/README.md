@@ -1,4 +1,5 @@
-<h1 align="center">👩🏻‍💻 업무 하면서 Study한 것들 (like TIL)📝</h1>
+<h1 align="center">👩🏻‍💻 (운영)업무하면서 중요하다 생각되는 것들과 Study한 내용들</h1>
+<p align="center">운영 업무 하면서 공부했던 내용들 & 코드 복기</p>
 
 <br>
 
@@ -31,3 +32,11 @@
 - [Git Rebase :: merge를 두고 왜 rebase 를 쓰는거야?](https://hyerimiya.notion.site/merge-rebase-e128b0bce8f140f8af98cd76c031eb0f?pvs=4)
 
 - [[모노레포][Bitbucket 정책] PR에서 충돌이아니라 다른작업 끌어오면서 conflict 난 경우](https://hyerimiya.notion.site/master-pr-conflict-bd15f7e4814a45cfb4011befd080c22b?pvs=4)
+
+- [formData() : 쿠폰 여러개 다운받아 서버에  데이터 전송하기](https://hyerimiya.notion.site/formData-0faa777c73084d86a660976680477eee?pvs=4)
+
+- [POST로 데이터를 보내야하는 형식이 어떻게 되는지 확인하는 방법 (Copy as fetch)](https://hyerimiya.notion.site/POST-Copy-as-fetch-8514687de10a4d60ae51e4a20fda0f94?pvs=4)
+
+- [react-query : mutateAsync,  useQueryClient, setQueryData](https://hyerimiya.notion.site/react-query-mutateAsync-useQueryClient-setQueryData-af3206d2122d4b39b4001bb5a4a20f06?pvs=4)
+
+- [폴백 메커니즘 : a태그 href와 onClick이벤트 동시에 적용하기](https://hyerimiya.notion.site/a-href-onClick-372509f3706148d1b66147a149135a19?pvs=4)
