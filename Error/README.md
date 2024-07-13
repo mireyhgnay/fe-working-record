@@ -14,6 +14,8 @@
 
 - [POST API fetch 로 보냈을 때 404 에러 원인 :: x-www-form-urlencoded 타입](https://hyerimiya.notion.site/POST-API-fetch-formData-404-x-www-form-urlencoded-multipart-form-data-0f7efc22acdf4d7e8cde3aaf93404688?pvs=4)
 
+- [요소 선택자 코드 위치 이슈 : 늘 사용해야 할 함수 안에 넣자!](https://hyerimiya.notion.site/b7609b6d10314a73b18d883498d2bfc1?pvs=4)
+
 <br>
 
 **`📝 오답 노트`**
