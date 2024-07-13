@@ -11,8 +11,7 @@
 
 ### [🚨 업무하면서 만난 Error들 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Error/README.md)s
 
-### [✍🏻 프로젝트 회고록](https://github.com/mireyhgnay/fe-working-record/tree/main/Memoirs)
+### [✍🏻 프로젝트 회고록](https://github.com/mireyhgnay/fe-working-record/tree/main/Projects)
 
-### [📁 Monorepo를 구축하고 경험하면서 공부한 것들](https://github.com/mireyhgnay/fe-monorepo)
-
-### [🖥️ 티몬 메인 홈 브라우저 성능 개선을 하면서 기록하는 TIL](https://github.com/mireyhgnay/browser-performance-upgrade)
+* 📁 Monorepo를 구축 및 이관
+* 🖥️ 티몬 메인 홈 브라우저 성능 개선
