@@ -40,3 +40,5 @@
 - [react-query : mutateAsync,  useQueryClient, setQueryData](https://hyerimiya.notion.site/react-query-mutateAsync-useQueryClient-setQueryData-af3206d2122d4b39b4001bb5a4a20f06?pvs=4)
 
 - [폴백 메커니즘 : a태그 href와 onClick이벤트 동시에 적용하기](https://hyerimiya.notion.site/a-href-onClick-372509f3706148d1b66147a149135a19?pvs=4)
+
+- [IR(Image Replacement)기법 - 대체텍스트](https://hyerimiya.notion.site/IR-Image-Replacement-579cb88874c14573a5bb7263e6dadafa?pvs=4)
