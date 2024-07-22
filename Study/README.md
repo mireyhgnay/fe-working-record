@@ -42,3 +42,5 @@
 - [폴백 메커니즘 : a태그 href와 onClick이벤트 동시에 적용하기](https://hyerimiya.notion.site/a-href-onClick-372509f3706148d1b66147a149135a19?pvs=4)
 
 - [IR(Image Replacement)기법 - 대체텍스트](https://hyerimiya.notion.site/IR-Image-Replacement-579cb88874c14573a5bb7263e6dadafa?pvs=4)
+
+- [(react-redux) useDispatch / useSelector](https://hyerimiya.notion.site/react-redux-useDispatch-useSelector-54c0679bc15b4806a34612afe9206291?pvs=4)
