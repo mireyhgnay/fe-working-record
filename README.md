@@ -3,7 +3,13 @@
 </div>
 <h2 align="center">👩🏻‍💻 Front-End Working Record</h2>
 
-<br>
+<br />
+
+```
+여기서 저장한 내용들을 차근차근 블로그에 기록해나가는 것을 목표로!
+```
+
+<br />
 
 ### [👩🏻‍💻 (운영)업무하면서 중요하다 생각되는 것들과 Study한 내용들 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/README.md)
 
@@ -13,6 +19,6 @@
 
 ### [✍🏻 프로젝트 회고록](https://github.com/mireyhgnay/fe-working-record/tree/main/Projects)
 
-* 📁 Monorepo를 구축 및 이관
-* 🖥️ 티몬 메인 홈 브라우저 성능 개선
-* 🎨 티몬 서비스 공통 컴포넌트 디자인 개편
+- 📁 Monorepo를 구축 및 이관
+- 🖥️ 티몬 메인 홈 브라우저 성능 개선
+- 🎨 티몬 서비스 공통 컴포넌트 디자인 개편
