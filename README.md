@@ -6,14 +6,26 @@
 
 <br />
 
-### [👩🏻‍💻 운영 업무하면서 중요하다 생각되는 것들과 공부한 내용들 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/README.md)
+### [👩🏻‍💻 메인으로 진행했던 프로젝트 이야기](https://github.com/mireyhgnay/fe-working-record/tree/main/Projects)
 
-### [📝 업무하면서 개발 외에 배우게 된 내용들 👉](https://hyerimiya.notion.site/Work-Story-8442eb0b3ae041309df8d8f3f9285a30?pvs=4)
+<details>
+  <summary>Projects List Preview</summary>
+
+- 🎨 티몬 서비스 공통 컴포넌트 디자인 개편(+ StoryBook)
+
+- 🖥️ 티몬 메인 홈 브라우저 성능 개선
+
+- 📁 Monorepo 이관 및 셋팅
+
+</details>
+
+### [📝 업무하면서 중요하다 생각되는 것들과 공부한 내용들 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/README.md)
 
 ### [🚨 업무하면서 만난 Error들 👉](https://github.com/mireyhgnay/fe-working-record/blob/main/Error/README.md)
 
-### [✍🏻 프로젝트 회고록](https://github.com/mireyhgnay/fe-working-record/tree/main/Projects)
+### [🙏 업무하면서 참 중요하다고 생각했던 것들, 배우게 된 것들 모아모아 👉](https://hyerimiya.notion.site/ab02ec2b977843ca9d7f801733f727a6?v=dfaf67d1c96247a4bf76f570291ecd8e&pvs=4)
 
-- 📁 Monorepo를 구축 및 이관
-- 🖥️ 티몬 메인 홈 브라우저 성능 개선
-- 🎨 티몬 서비스 공통 컴포넌트 디자인 개편
+<details>
+  <summary>현재 비공개 상태이지만, 어떤 내용이 있을까?</summary>
+  <img width="200px;" src="./images/record.png"/>
+</details>
