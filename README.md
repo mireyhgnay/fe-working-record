@@ -6,16 +6,13 @@
 
 <br />
 
-<details>
-  <summary style="font-size: 18px; font-weight: bold;">👩🏻‍💻 메인으로 진행했던 프로젝트 이야기</summary>
+### 👩🏻‍💻 메인으로 진행했던 프로젝트 이야기
 
-#### [📁 Monorepo 이관 및 셋팅 👉](https://github.com/mireyhgnay/fe-monorepo)
-
-#### [🖥️ 티몬 메인 홈 브라우저 성능 개선 👉](https://github.com/mireyhgnay/browser-performance-upgrade)
-
-#### [🎨 티몬 서비스 공통 컴포넌트 디자인 개편 👉](https://hyerimiya.notion.site/5975ea18cc0b46a0b6aab69af82027a6?pvs=4)
-
-</details>
+<div style="margin-left: 20px;">
+  <h4>📁 <a href="https://github.com/mireyhgnay/fe-monorepo">Monorepo 이관 및 셋팅 👉</a></h4>
+  <h4>🖥️ <a href="https://github.com/mireyhgnay/browser-performance-upgrade">티몬 메인 홈 브라우저 성능 개선 👉</a></h4>
+  <h4>🎨 <a href="https://hyerimiya.notion.site/5975ea18cc0b46a0b6aab69af82027a6?pvs=4">티몬 서비스 공통 컴포넌트 디자인 개편 👉</a></h4>
+</div>
 
 ### [📝 업무하면서 중요하다 생각되는 것들과 공부한 내용들](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/README.md)
 
