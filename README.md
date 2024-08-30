@@ -6,10 +6,8 @@
 
 <br />
 
-### [👩🏻‍💻 메인으로 진행했던 프로젝트 이야기](https://github.com/mireyhgnay/fe-working-record/tree/main/Projects)
-
 <details>
-  <summary>무슨 프로젝트를 했나~ 열어서 확인해보기</summary>
+  <summary style="font-size: 18px; font-weight: bold;">👩🏻‍💻 메인으로 진행했던 프로젝트 이야기</summary>
 
 #### [📁 Monorepo 이관 및 셋팅 👉](https://github.com/mireyhgnay/fe-monorepo)
 
