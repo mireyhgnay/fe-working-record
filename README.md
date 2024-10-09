@@ -19,11 +19,7 @@
 
 ### [📝 업무하면서 중요하다 생각되는 것들과 공부한 내용들](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/README.md)
 
-<br />
-
 ### [🚨 업무하면서 만난 Error들](https://github.com/mireyhgnay/fe-working-record/blob/main/Error/README.md)
-
-<br />
 
 ### [🙏 업무하면서 참 중요하다고 생각했던 것들, 배우게 된 것들 모아모아](https://hyerimiya.notion.site/ab02ec2b977843ca9d7f801733f727a6?v=dfaf67d1c96247a4bf76f570291ecd8e&pvs=4)
 
