@@ -7,7 +7,7 @@
 <br />
 <br />
 
-### 👩🏻‍💻 메인으로 진행했던 프로젝트 이야기
+### 👩🏻‍💻 나의 프로젝트 이야기
 
 <div style="margin-left: 20px;">
   <h4>📁 <a href="https://github.com/mireyhgnay/fe-monorepo">Monorepo 이관 및 셋팅 👉</a></h4>
