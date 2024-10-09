@@ -7,7 +7,7 @@
 <br />
 <br />
 
-## 👩🏻‍💻 메인으로 진행했던 프로젝트 이야기
+### 👩🏻‍💻 메인으로 진행했던 프로젝트 이야기
 
 <div style="margin-left: 20px;">
   <h4>📁 <a href="https://github.com/mireyhgnay/fe-monorepo">Monorepo 이관 및 셋팅 👉</a></h4>
@@ -17,15 +17,15 @@
 
 <br />
 
-## [📝 업무하면서 중요하다 생각되는 것들과 공부한 내용들](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/README.md)
+### [📝 업무하면서 중요하다 생각되는 것들과 공부한 내용들](https://github.com/mireyhgnay/fe-working-record/blob/main/Study/README.md)
 
 <br />
 
-## [🚨 업무하면서 만난 Error들](https://github.com/mireyhgnay/fe-working-record/blob/main/Error/README.md)
+### [🚨 업무하면서 만난 Error들](https://github.com/mireyhgnay/fe-working-record/blob/main/Error/README.md)
 
 <br />
 
-## [🙏 업무하면서 참 중요하다고 생각했던 것들, 배우게 된 것들 모아모아](https://hyerimiya.notion.site/ab02ec2b977843ca9d7f801733f727a6?v=dfaf67d1c96247a4bf76f570291ecd8e&pvs=4)
+### [🙏 업무하면서 참 중요하다고 생각했던 것들, 배우게 된 것들 모아모아](https://hyerimiya.notion.site/ab02ec2b977843ca9d7f801733f727a6?v=dfaf67d1c96247a4bf76f570291ecd8e&pvs=4)
 
 <details>
   <summary>현재 비공개 상태이지만, 어떤 내용이 있을까?</summary>
