@@ -10,7 +10,7 @@
 ### 👩🏻‍💻 나의 프로젝트 이야기
 
 <div style="margin-left: 20px;">
-  <h4>🖥️ <a href="https://github.com/mireyhgnay/browser-performance-upgrade">티몬 메인 홈 브라우저 성능 개선 👉</a></h4>
+  <h4>🖥️ <a href="https://hyerimiya.notion.site/5f0550cd0fa548ddafa821551b3c7987?pvs=4">티몬 메인 홈 브라우저 성능 개선 👉</a></h4>
   <h4>🎨 <a href="https://hyerimiya.notion.site/5975ea18cc0b46a0b6aab69af82027a6?pvs=4">티몬 서비스 공통 컴포넌트 디자인 개편 👉</a></h4>
   <h4>📁 <a href="https://hyerimiya.notion.site/c9bdfb7b677846c3b041d5571c13c4ba?pvs=4">Monorepo 이관 및 셋팅 👉</a></h4>
 </div>
